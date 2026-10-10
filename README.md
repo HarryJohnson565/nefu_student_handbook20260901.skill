@@ -1,0 +1,2 @@
+# nefu_student_handbook20260901.skill
+我把2026年九月一日起执行的东北林业大学学生手册蒸馏成了nefu_student_handbook20260901.skill。便于东林的新生们在考学生手册前临阵抱佛脚。在遇到学校里的任何疑难杂症时，也可及时地向装有该技能的AI提问，而不是盲目地翻几百十页的PDF。 I have distilled the Northeast Forestry University‘s student-handbook which has taken effect at September 1st in 2026 and created the nefu_student_handbook20260901.skill .Not only can the AI equiped with it help freshmen in NEFU to prepare for the exam about the student-handbook efficiently,but also the AI with it can answer the nefuer introuble on campus perfectly.
